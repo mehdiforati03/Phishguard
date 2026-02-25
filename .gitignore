@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Modèles et Données (trop lourds pour GitHub)
+*.pkl
+*.parquet
+top_10k.txt
+
+# Extension
+.DS_Store
